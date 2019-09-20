@@ -14,7 +14,7 @@ in a sample from full-field displacement data captured using Digital Image
 Correlation (DIC) or Digital Volume Correlation (DVC). It has been developed by Ahmet 
 Cinar and Simon Tonge at the Universities of Sheffield and Bristol, UK. 
 
-Displacement fields are pre-processed by first deleting inaccurate displacements 
+Displacement fields are first pre-processed by deleting inaccurate displacements 
 in the vicinity of the crack (and using the inpaint_nans to refill them). 
 Volumetric phase congruency is then used to segment the crack, which allows the 
 cartesian co-ordinates of the crack mouth and crack tip to be extracted. This, 
@@ -41,13 +41,13 @@ Dependencies
 
 The following must be on the MATLAB file path.
 
-Peter Kovesi.   MATLAB and Octave Functions for Computer Vision and Image Processing.
+Peter Kovesi.   MATLAB and Octave Functions for Computer Vision and Image Processing:
 
-<http://www.peterkovesi.com/matlabfns/>. 
+<http://www.peterkovesi.com/matlabfns/> 
 
-John D'Errico. inpaint_nans (v 1.1.0.0)
+John D'Errico. inpaint_nans (v 1.1.0.0):
 
-<https://uk.mathworks.com/matlabcentral/fileexchange/4551-inpaint_nans>.
+<https://uk.mathworks.com/matlabcentral/fileexchange/4551-inpaint_nans>
 
 
  

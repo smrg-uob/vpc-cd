@@ -2,9 +2,9 @@ vpc-cd: Volumetric Phase Congruency Crack Detection
 ===============================================
 
 
-[![DOI](https://zenodo.org/badge/209754287.svg)](https://zenodo.org/badge/latestdoi/209754287)
+[![DOI](https://zenodo.org/badge/209755036.svg)](https://zenodo.org/badge/latestdoi/209755036)
 
-![vpc-cd](codevisual.png)
+![vpc-cd](vpccdvisual.png)
 
 What is vpc-cd?
 -------------

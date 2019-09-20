@@ -9,9 +9,9 @@ vpc-cd: Volumetric Phase Congruency Crack Detection
 What is vpc-cd?
 -------------
 
-vpc-cd use volumetric phase congruency to find the geometric location of a crack 
+vpc-cd uses volumetric phase congruency to find the geometric location of a crack 
 in a sample from full-field displacement data captured using Digital Image 
-Correlation (DIC) or Digital Volume Correlation (DVC). Developed by Ahmet 
+Correlation (DIC) or Digital Volume Correlation (DVC). It has been developed by Ahmet 
 Cinar and Simon Tonge at the Universities of Sheffield and Bristol, UK. 
 
 Displacement fields are pre-processed by first deleting inaccurate displacements 
@@ -21,8 +21,8 @@ cartesian co-ordinates of the crack mouth and crack tip to be extracted. This,
 in turn, allows the mode I crack opening displacement (COD) to be found for all 
 positions along the crack. 
 
-Further information about the precise implementation can be found in the 
-following journal publication:
+More detailed information about the precise implementation can be found in the 
+associated journal publication:
 
 Cinar, A. F., Barhli, S. M., Hollis, D., Flansbjer, M., Tomlinson, R. A., Marrow, T. J., & Mostafavi, M. (2017). 
 An autonomous surface discontinuity detection and quantification method by digital 

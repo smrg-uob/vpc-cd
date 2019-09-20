@@ -42,12 +42,11 @@ Dependencies
 The following must be on the MATLAB file path.
 
 Peter Kovesi.   MATLAB and Octave Functions for Computer Vision and Image Processing.
-Available from:
+
 <http://www.peterkovesi.com/matlabfns/>. 
 
-John D'Errico. inpaint_nans 
-version 1.1.0.0 
-Available from:
+John D'Errico. inpaint_nans (v 1.1.0.0)
+
 <https://uk.mathworks.com/matlabcentral/fileexchange/4551-inpaint_nans>.
 
 
